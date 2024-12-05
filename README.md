@@ -1,2 +1,2 @@
 # Water_Quality_Prediction
-water quality prediction
+the process of forecasting the condition and quality of a water body by analyzing various physical, chemical, and biological parameters like pH, temperature, turbidity, dissolved oxygen, and nutrient levels, using data analysis techniques to predict future water quality based on historical trends and current conditions, allowing for proactive management and mitigation of potential pollution issues
